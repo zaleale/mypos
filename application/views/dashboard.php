@@ -5,7 +5,7 @@
     </h1>
     <ol class="breadcrumb">
         <li><a href="#"><i class="fa fa-dashboard"></i></a></li>
-        <li class="active">Dashboard</li>
+        <li class="active">Dashboard BARU</li>
     </ol>
 </section>
 
