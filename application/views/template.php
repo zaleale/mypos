@@ -59,8 +59,8 @@
                         <!-- Tasks: style can be found in dropdown.less -->
                         <li class="dropdown tasks-menu">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                <i class="fa fa-flag-o"></i>
-                                <span class="label label-danger">9</span>
+                                <!-- <i class="fa fa-flag-o"></i>
+                                <span class="label label-danger">9</span> -->
                             </a>
                             <ul class="dropdown-menu">
                                 <li class="header">You have 9 tasks</li>
@@ -139,7 +139,7 @@
                     </div>
                 </div>
                 <!-- search form -->
-                <form action="#" method="get" class="sidebar-form">
+                <!-- <form action="#" method="get" class="sidebar-form">
                     <div class="input-group">
                         <input type="text" name="q" class="form-control" placeholder="Search...">
                         <span class="input-group-btn">
@@ -147,7 +147,7 @@
                             </button>
                         </span>
                     </div>
-                </form>
+                </form> -->
                 <!-- /.search form -->
                 <!-- sidebar menu: : style can be found in sidebar.less -->
                 <ul class="sidebar-menu" data-widget="tree">

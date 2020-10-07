@@ -23,8 +23,9 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+$config['base_url'] = 'http://192.168.21.55:8088/mypos/'; 
 // $config['base_url'] = 'http://172.44.22.243:8088/mypos/'; (NANTI UBAH SESUAI IP YG DI BANDA)
-$config['base_url'] = 'http://localhost:8088/mypos/';
+// $config['base_url'] = 'http://localhost:8088/mypos/';
 
 /*
 |--------------------------------------------------------------------------

@@ -58,7 +58,7 @@
                                     <?php $level = $this->input->post('level') ? $this->input->post('level') : $row->level ?>
                                     <option value="">- Pilih -</option>
                                     <option value="1" <?= $level == 1 ? 'selected' : null  ?>>Admin</option>
-                                    <option value="2" <?= $level == 2 ? 'selected' : null  ?>>Kasir</option>
+                                    <option value="2" <?= $level == 2 ? 'selected' : null  ?>>Agen</option>
                                 </select>
                                 <?= form_error('level') ?>
                             </div>
